@@ -9,7 +9,7 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<img src="https://img.icons8.com/color/48/000000/java.png"/>(https://www.java.com/en/)
+<img src="https://img.icons8.com/color/48/000000/java.png"/>[](https://www.java.com)
 <a src="https://kotlinlang.org/"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
 <a src="https://python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 
