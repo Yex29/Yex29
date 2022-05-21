@@ -11,6 +11,7 @@
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
 <a src="https://kotlinlang.org/"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+<a src="https://lua.org/"><img src="https://img.icons8.com/color/48/000000/lua.png"/></a>
 
 #### Current organizations:
 
