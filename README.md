@@ -1,4 +1,4 @@
-### Hey, I'm Yex 👨‍💻
+### Hey!, I'm Yex 👨‍💻
 
 #### 📍 Currently based in the US
 
