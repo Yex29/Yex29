@@ -11,11 +11,12 @@
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/java.png"/>
 <a src="https://kotlinlang.org/"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+[https://img.icons8.com/color/48/000000/python.png](https://python.org/)
 <a src="https://python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 
 #### Current organizations:
 
-- [Luminous](https://github.com/Luminous-Technologies)
+- [Luminous Technologies](https://github.com/Luminous-Technologies)
 
 #### My GitHub Stats
 
