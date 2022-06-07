@@ -4,15 +4,12 @@
 
 #### 👨🏻‍💻 Currently working on:
 
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<img src="https://img.icons8.com/color/48/000000/java.png"/>
-<a src="https://kotlinlang.org/"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+[![HTML](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
+[![HTML](https://img.icons8.com/color/48/000000/css-3.png)](https://www.w3schools.com/css/)
+[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://www.w3schools.com/html/)
+[![Java](https://img.icons8.com/color/48/000000/java.png)](https://java.com/en/)
+[![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)](https://kotlinlang.org/)
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://python.org/)
-<a src="https://python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 
 #### Current organizations:
 
