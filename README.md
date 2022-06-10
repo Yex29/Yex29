@@ -1,8 +1,8 @@
 ### Hey!, I'm Yex 👨‍💻
 
-#### 📍 Currently based in the US
+#### 📍 Located in the US 
 
-#### 👨🏻‍💻 Currently working on:
+#### 👨🏻‍💻 Languages I Know / Am Learning :
 
 [![JS](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
 [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3schools.com/css/)
@@ -15,6 +15,6 @@
 
 - [Luminous Technologies](https://github.com/Luminous-Technologies)
 
-#### My GitHub Stats
+#### GitHub Stats
 
 [![Yex's GitHub stats](https://github-readme-stats.vercel.app/api?username=yexex&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
