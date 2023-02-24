@@ -7,7 +7,7 @@
 [![JS](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
 [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3schools.com/css/)
 [![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://www.w3schools.com/html/)
-[![Java](https://img.icons8.com/color/48/000000/java.png)](https://java.com/en/)
+[![Java](https://img.icons8.com/color/256/java-coffee-cup-logo--v1.png)](https://java.com/en/)
 [![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)](https://kotlinlang.org/)
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://python.org/)
 
