@@ -11,6 +11,7 @@
 [![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)](https://kotlinlang.org/)
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://python.org/)
 [![Lua](https://img.icons8.com/color/48/000000/lua-language.png)](https://lua.org/)
+[![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 #### Current organizations:
 
