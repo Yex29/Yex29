@@ -10,6 +10,7 @@
 [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png)](https://java.com/en/)
 [![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)](https://kotlinlang.org/)
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://python.org/)
+[![Lua](https://img.icons8.com/color/48/000000/lua.png)](https://lua.org/)
 
 #### Current organizations:
 
