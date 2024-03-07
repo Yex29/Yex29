@@ -1,4 +1,4 @@
-### Hey!, I'm Yex 👨‍💻
+### Hey! I'm Yex 👨‍💻
 
 #### 📍 Located in the US 
 
